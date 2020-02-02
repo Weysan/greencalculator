@@ -1,0 +1,16 @@
+{
+    "name": "weysan/green-calculator",
+    "description": "Greenhouse emission calculator",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^8.5"
+    },
+    "require": {
+        "symfony/yaml": "^5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Green\\": "src/"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+items:
+  - distance_km: 523.74
+    has_travel_back: true
+    type: long_haul_plane
+
+  - distance_km: 818.34
+    has_travel_back: true
+    type: long_haul_plane
+
+  - distance_km: 9107.99
+    has_travel_back: true
+    type: long_haul_plane
+
+  - distance_km: 975.45
+    has_travel_back: false
+    type: long_haul_plane
+
+  - distance_km: 1320
+    has_travel_back: false
+    type: long_haul_plane
+
+  - distance_km: 3680
+    has_travel_back: true
+    type: long_haul_plane
